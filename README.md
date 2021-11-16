@@ -28,7 +28,8 @@ When the user visits the website they will be able to see existing blog posts fr
 ## Credits
 Received help from: <br>
 Jayla De'nae - peer <br>
-Chuch Stephens - peer <br>
+Chuck Stephens - peer <br>
+Damien Luzzo - peer <br>
 
 This application uses: <br>
 Express.js <br>
