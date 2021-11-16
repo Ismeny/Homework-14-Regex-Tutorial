@@ -14,7 +14,7 @@ This application is a blog site where the user can make blog posts and comments.
   
 
 ## Installation
-Heroku URL link  : ****** <br>
+Heroku URL link  : ***https://fashion-blog-ismeny.herokuapp.com/*** <br>
 
 ![Screenshot](assets/images/home.png) <br>
 ![Screenshot](assets/images/profile.png) <br>
