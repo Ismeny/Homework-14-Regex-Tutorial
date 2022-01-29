@@ -1,4 +1,4 @@
-# Homework-14-Tech-Blog
+# Tech-Blog
 
 ## Description
 This application is a blog site where the user can make blog posts and comments.
